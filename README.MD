@@ -27,21 +27,28 @@ The forbidden file is an object containing multiple entries, each of which repre
 Any questions or complaints please contact with the information below:
 <table>
 <tr>
-<td align="center"><a href="https://t.me/ntkhang03"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<td align="center"><a href="https://www.facebook.com/mahmudexe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </td>
-<td align="center"><a href="https://www.facebook.com/ntkhang03"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</td>
-</tr>
-
-<tr>
-<td align="center"><a href="https://twitter.com/ntkhang03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</td>
-<td align="center"><a href="https://www.youtube.com/@NTKhang03"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<td align="center"><a href="https://instagram.com/mahmud.x07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </td>
 </tr>
 
 <tr>
-<td align="center" colspan=2><a href="https://github.com/ntkhang03"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<td align="center"><a href="https://www.youtube.com/@mahmud-aura"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</td>
+<td align="center"><a href="https://wa.me/8801836298139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</td>
+</tr>
+
+<tr>
+<td align="center"><a href="https://mahmud-aura.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</td>
+<td align="center"><a href="mailto:mahmudx077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan=2><a href="https://github.com/mahmud-aura"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 </tr>
 </table>
